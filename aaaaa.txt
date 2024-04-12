@@ -1,3 +1,7 @@
 2222222
 1111s1w12eqdasd
+<<<<<<< HEAD
 fdsfsdfsd
+=======
+121qwdeqw
+>>>>>>> origin/main
